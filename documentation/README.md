@@ -275,7 +275,7 @@ In this chapter, steps are shown how to install each component. This should only
 
 #### ROS 2
 
-[https://gitlab.informatik.hs-furtwangen.de/ss23-forschungsprojekt-7/vm-setup](https://gitlab.informatik.hs-furtwangen.de/ss23-forschungsprojekt-7/vm-setup) includes a section on how to install ROS.
+[https://gitlab.informatik.hs-furtwangen.de/ss23-forschungsprojekt-7/documentation/-/tree/main/setup](https://gitlab.informatik.hs-furtwangen.de/ss23-forschungsprojekt-7/documentation/-/tree/main/setup) includes a section on how to install ROS.
 
 
 #### roskafka
